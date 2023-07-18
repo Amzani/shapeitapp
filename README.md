@@ -3,6 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 
+TEST
+
+
 1. If the Github project you want to connect does not already exist, navigate to your Github profile and create a new Project using the URL https://github.com/users/[your-username]/projects/.
 2. Login to https://shapeit.app/ and follow the provided steps to connect your Github project.
 3. Add some Bets to you project.
